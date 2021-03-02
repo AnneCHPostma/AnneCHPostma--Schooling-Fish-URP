@@ -127,7 +127,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 2021.2.21
+  bundleVersion: 2021.3.2
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -148,7 +148,7 @@ PlayerSettings:
   applicationIdentifier:
     Standalone: com.AnneCHPostma.ShoalingFish
   buildNumber:
-    Standalone: 2335
+    Standalone: 1714
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1

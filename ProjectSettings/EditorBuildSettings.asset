@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AnneCHPostma/Shoaling Fish/Scenes/Shoaling Fish.unity
-    guid: d88175a3f933d0a4ab2c4367cacae696
+    path: Assets/AnneCHPostma/Schooling Fish/Scenes/Schooling Fish.unity
+    guid: e642964c88e64514091d6bd62c0d9131
   m_configObjects: {}
